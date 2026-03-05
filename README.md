@@ -1,7 +1,7 @@
 # wsl-manager
 
 > **Remote Windows administration using Bash as the orchestrator and PowerShell as the execution engine — all from WSL.**
-> by [Dionisio Rohling](https://github.com/drohling) — Computer Engineer
+> by [Dionisio Rohling](https://github.com/dgsrohling) — Computer Engineer
 
 ---
 
@@ -164,7 +164,7 @@ wsl-manager requires nothing on the target machines beyond what Windows already 
 ## Installation
 
 ```bash
-git clone https://github.com/drohling/wsl-manager
+git clone https://github.com/dgsrohling/wsl-manager
 cd wsl-manager
 chmod +x wsl-manager.sh
 
@@ -412,7 +412,10 @@ This tool is intended for use by authorized IT professionals administering syste
 ## Author
 
 **Dionisio Rohling** — Computer Engineer
-Franca, SP — Brazil
+Maringá, PR — Brazil
+
+[![GitHub](https://img.shields.io/badge/GitHub-dgsrohling-181717?logo=github)](https://github.com/dgsrohling)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dionisiorohling-0A66C2?logo=linkedin)](https://www.linkedin.com/in/dionisiorohling/)
 
 > *"Bash is simple and powerful. PowerShell knows Windows. Together, they know everything."*
 
